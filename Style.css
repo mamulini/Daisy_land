@@ -1,0 +1,39 @@
+header{
+    background-image: url(img/backgroound_menu.png);
+    background-size: 100%
+}
+.red{
+    color: #fc635e
+}
+.white{
+    color: #ffffff
+}
+.clients{
+    text-align: center;
+}
+.menu{
+    list-style-type: none;
+    min-width: 855px;
+    margin: auto;
+    margin-right: 300px;
+       }
+.background_menu{
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 0.5%;
+}
+ul.menu li{
+    margin-right: 20px;
+    float: right;
+       
+}
+.line_height{
+    height: 600px
+}
+body{
+    font-family: pf centro sans pro;
+   
+        }
+h1.white{
+  font-size: 51pt;
+}
